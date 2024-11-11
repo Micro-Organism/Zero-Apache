@@ -1,0 +1,30 @@
+[submodule "Zero-Hadoop"]
+	path = Zero-Hadoop
+	url = https://github.com/Micro-Organism/Zero-Hadoop.git
+[submodule "Zero-Spark"]
+	path = Zero-Spark
+	url = https://github.com/Micro-Organism/Zero-Spark.git
+[submodule "Zero-Tomcat"]
+	path = Zero-Tomcat
+	url = https://github.com/Micro-Organism/Zero-Tomcat.git
+[submodule "Zero-Kafka"]
+	path = Zero-Kafka
+	url = https://github.com/Micro-Organism/Zero-Kafka.git
+[submodule "Zero-Flink"]
+	path = Zero-Flink
+	url = https://github.com/Micro-Organism/Zero-Flink.git
+[submodule "Zero-Cassandra"]
+	path = Zero-Cassandra
+	url = https://github.com/Micro-Organism/Zero-Cassandra.git
+[submodule "Zero-Beam"]
+	path = Zero-Beam
+	url = https://github.com/Micro-Organism/Zero-Beam.git
+[submodule "Zero-Airflow"]
+	path = Zero-Airflow
+	url = https://github.com/Micro-Organism/Zero-Airflow.git
+[submodule "Zero-NiFi"]
+	path = Zero-NiFi
+	url = https://github.com/Micro-Organism/Zero-NiFi.git
+[submodule "Zero-Https"]
+	path = Zero-Https
+	url = https://github.com/Micro-Organism/Zero-Https.git
