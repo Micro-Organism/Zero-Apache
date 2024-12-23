@@ -28,3 +28,9 @@
 [submodule "Zero-Https"]
 	path = Zero-Https
 	url = https://github.com/Micro-Organism/Zero-Https.git
+[submodule "Zero-Pivot"]
+	path = Zero-Pivot
+	url = https://github.com/Micro-Organism/Zero-Pivot.git
+[submodule "Zero-ZooKeeper"]
+	path = Zero-ZooKeeper
+	url = https://github.com/Micro-Organism/Zero-ZooKeeper.git

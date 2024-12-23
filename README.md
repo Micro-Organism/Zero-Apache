@@ -14,6 +14,9 @@
 |       8       |   Zero-Nifi    |     Zero-Nifi      |      [Zero-Nifi ](Zero-Nifi/README.md)      |   ✅    |
 |       9       |   Zero-Spark   |     Zero-Spark     |     [Zero-Spark ](Zero-Spark/README.md)     |   ✅    |
 |      10       |  Zero-Tomcat   |    Zero-Tomcat     |    [Zero-Tomcat ](Zero-Tomcat/README.md)    |   ✅    |
+|      11       | Zero-Zookeeper |   Zero-Zookeeper   | [Zero-Zookeeper ](Zero-Zookeeper/README.md) |   ✅    |
+|      12       |  Zero-InLong   |    Zero-InLong     |    [Zero-InLong](Zero-InLong/README.md)     |   ✅    |
+|      13       |   Zero-Pivot   |     Zero-Pivot     |     [Zero-Pivot](Zero-Pivot/README.md)      |   ✅    |
 
 # 🔗 Links
 
